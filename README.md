@@ -1,6 +1,6 @@
 # react 프로젝트 전 react-router-redux 세팅
 
-react-router-redux를 선택한 이유는 [관련 블로그] ()를 참고. 
+react-router-redux를 선택한 이유는 [관련 블로그] (http://wagunblog.com/wp/?p=2093)를 참고. 
 
 ## Installation
 
@@ -75,11 +75,11 @@ containers에 있는 App으로 한번 감싸고, IndexRoute를 Home으로 설정
 npm start
 ```
 
-[/화면(Home)](http://wagunblog.com/wp/wp-content/uploads/2016/08/reactRouterRedux1.png)
+![/화면(Home)](http://wagunblog.com/wp/wp-content/uploads/2016/08/reactRouterRedux1.png)
 
-[Page1](http://wagunblog.com/wp/wp-content/uploads/2016/08/reactRouterRedux4.png)
+![Page1](http://wagunblog.com/wp/wp-content/uploads/2016/08/reactRouterRedux4.png)
 
-[Error](http://wagunblog.com/wp/wp-content/uploads/2016/08/reactRouterRedux3.png)
+![Error](http://wagunblog.com/wp/wp-content/uploads/2016/08/reactRouterRedux3.png)
 
 ## 기타
 
