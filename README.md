@@ -79,10 +79,12 @@ npm start
 
 ### /(Home)
 <img src="http://wagunblog.com/wp/wp-content/uploads/2016/08/reactRouterRedux1.png" width="300">
+
 ### Page1
-<img src="http://wagunblog.com/wp/wp-content/uploads/2016/08/reactRouterRedux4.png" width="300">
-### Error
 <img src="http://wagunblog.com/wp/wp-content/uploads/2016/08/reactRouterRedux3.png" width="300">
+
+### Error
+<img src="http://wagunblog.com/wp/wp-content/uploads/2016/08/reactRouterRedux4.png" width="300">
 
 ## 기타
 
