@@ -75,18 +75,12 @@ containers에 있는 App으로 한번 감싸고, IndexRoute를 Home으로 설정
 npm start
 ```
 
-/화면(Home)
+### /(Home)
 <img src="http://wagunblog.com/wp/wp-content/uploads/2016/08/reactRouterRedux1.png" width="300">
-Page1
+### Page1
 <img src="http://wagunblog.com/wp/wp-content/uploads/2016/08/reactRouterRedux4.png" width="300">
-Error
+### Error
 <img src="http://wagunblog.com/wp/wp-content/uploads/2016/08/reactRouterRedux3.png" width="300">
-
-![/화면(Home)](http://wagunblog.com/wp/wp-content/uploads/2016/08/reactRouterRedux1.png)
-
-![Page1](http://wagunblog.com/wp/wp-content/uploads/2016/08/reactRouterRedux4.png)
-
-![Error](http://wagunblog.com/wp/wp-content/uploads/2016/08/reactRouterRedux3.png)
 
 ## 기타
 
