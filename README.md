@@ -70,6 +70,8 @@ render((
 containers에 있는 App으로 한번 감싸고, IndexRoute를 Home으로 설정하고, home, page1, 기타 에러페이지 정도로 샘플을 생각했다.
 그리고 page1에서는 두개의 Component를 사용하는 샘플이다.
  
+추후 redux를 사용할 때, actions와 reducers 폴더를 사용할 예정이며 `const reducer = combineReducers`에 주석처리된 부분을 같이 활용할 생각이다.
+
 ## 결과
 ```
 npm start
