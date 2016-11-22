@@ -183,4 +183,4 @@ export default function (state = initialState, action) {
 
 현재는 Home에서 Detail 페이지 전환시 scrollTop도 같이 넘겨줘서 작업을 진행했다.
 
-<img src="http://wagunblog.com/wp/wp-content/uploads/2016/11/react-router-redux.png" alt="샘플 Home 예제" width="50%" />
+<img src="http://wagunblog.com/wp/wp-content/uploads/2016/11/react-router-redux.png" alt="샘플 Home 예제" />
