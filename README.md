@@ -182,3 +182,5 @@ export default function (state = initialState, action) {
 이 과정에서 목록에서 view를 갔다가 이전 버튼 클릭시 현재 값을 유지해야하는 웹의 특성을 맞춰보려고 이런 저런 테스트를 하면서 샘플을 만들어봤다.
 
 현재는 Home에서 Detail 페이지 전환시 scrollTop도 같이 넘겨줘서 작업을 진행했다.
+
+<img src="http://wagunblog.com/wp/wp-content/uploads/2016/11/react-router-redux.png" alt="샘플 Home 예제" width="50%" />
